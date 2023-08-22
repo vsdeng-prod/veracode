@@ -1,2 +1,0 @@
-verademo-javascript
-verademo-java
